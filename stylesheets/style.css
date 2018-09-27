@@ -1,0 +1,34 @@
+div{
+	background-color: #fcc2e9;
+	border: solid 1px purple;
+	height: 100px;
+	width: 40%;
+	margin: 25px;
+}
+
+#one{
+	margin: auto;
+}
+
+#two{
+	float:left;
+}
+
+#three{
+	float:left
+}
+
+#four{
+	float:left;
+	position: relative;
+}
+
+#smallbox{
+	background-color: pink;
+	position: absolute; 
+	width: 3%;
+	height: 31%;
+	right:100;
+	bottom:100;
+	margin: 0px;
+}
